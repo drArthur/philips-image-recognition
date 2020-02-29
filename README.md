@@ -22,3 +22,7 @@ As an example, on my system I've been writing:
 
 ## Optimization concerns
 The program runs somewhat slowly - it takes around 30 seconds for each image, and the image is somewhat hefty in its size - around 2.8gb. However, I didn't see any restrictions regarding speed and memory, so it should be okay.
+
+## Example image
+
+![](image.png)
